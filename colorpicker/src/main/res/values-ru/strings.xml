@@ -31,8 +31,8 @@
     <string name="color_picker_new_color" tools:ignore="MissingTranslation">новый</string>
     <string name="color_picker_pipette" tools:ignore="MissingTranslation">Пипетка</string>
     <string name="color_picker_save_dialog_title" tools:ignore="MissingTranslation">Сохранить изменения?</string>
-    <string name="color_picker_save_dialog_msg" tools:ignore="MissingTranslation">Хотите ли вы сохранить свои изменения?</string>
+    <string name="color_picker_save_dialog_msg" tools:ignore="MissingTranslation">Сохранить изменения?</string>
     <string name="color_picker_no" tools:ignore="MissingTranslation">нет</string>
     <string name="color_picker_yes" tools:ignore="MissingTranslation">да</string>
-    <string name="color_picker_history_recently_used" tools:ignore="MissingTranslation">недавние</string>
+    <string name="color_picker_history_recently_used" tools:ignore="MissingTranslation">недавно использованные</string>
 </resources>
